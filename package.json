@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "release": "release-it"
+  },
+  "release-it": {
+    "github": {
+      "release": true
+    }
+  },
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-git": "^2.8.0",
+    "gulp-github-release": "^1.2.1",
+    "release-it": "^9.1.0"
+  }
+}
